@@ -1,4 +1,4 @@
-###                                                                Hi there 👋
+###                                                                
 <h1 align="center">Hi 👋, I'm Aradhya Sangra</h1>
 <h3 align="center">A Passionate Learner , Developer , Coder 💻 and Experiencing New Skills-set.</h3>
 
@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development and DSA 👨‍💻**
 
-- 📫 How to reach me **aradhya-sangra-as621**
+- 📫 How to reach me **aradhya612sangra@gmail.com**
 
-- ⚡ Fun fact **It's not over , until its completely over 😄**
+- ⚡ Fun fact   **It's not over, until its completely over 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
