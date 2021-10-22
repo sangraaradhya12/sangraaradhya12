@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Aradhya Sangra</h1>
 <h2 align="center">A Passionate Learner , Developer , Coder 💻 and an Open-Source aficionado 🔝</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangraaradhya12&label=Profile%20views&color=0e75b6&style=flat" alt="sangraaradhya12" /> </p>
+
 
 - 🔭 I’m currently working on ****C++ and Web Dev****
 
@@ -23,9 +25,8 @@
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-![GitHub stats] <p><img align="center" src ="https://github-readme-stats.vercel.app/api?username=sangraaradhya12&show_icons=true" /></p>  
+<p><img align="center" src ="https://github-readme-stats.vercel.app/api?username=sangraaradhya12&show_icons=true" /></p>  
 
-![GitHub streak stats]<p><img align="center" src ="https://github-readme-streak-stats.herokuapp.com/?user=sangraaradhya12" /></p>  
+<p><img align="center" src ="https://github-readme-streak-stats.herokuapp.com/?user=sangraaradhya12" /></p>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangraaradhya12&label=Profile%20views&color=0e75b6&style=flat" alt="sangraaradhya12" /> </p>
 
