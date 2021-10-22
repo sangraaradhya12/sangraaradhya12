@@ -3,11 +3,11 @@
 <h2 align="center">A Passionate Learner , Developer , Coder 💻 and an Open-Source aficionado 🔝</h2>
 
 
-- 🔭 I’m currently working on ****C++ ,Web Dev & Kotlin****
+- 🔭 I’m currently working on ****C++ and Web Dev****
 
 - 🌱 I’m currently learning **Full Stack Web Development and DSA 👨‍💻**
 
-- 👯 I’m looking to collaborate on **Web Dev and Mobile App Dev with [ML&AI]**
+- 👯 I’m looking to collaborate on **Web Dev  with [ML&AI]**
 
 - 🤝 I’m looking for help with **Development Projects**
 
