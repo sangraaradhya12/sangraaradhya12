@@ -9,10 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Web Dev  with [ML&AI]**
 
-- 🤝 I’m looking for help with **Development Projects**
-
-- 💬 Ask me about **C++, JS, React**
-
 - 📫 How to reach me **aradhya612sangra@gmail.com**
 
 - ⚡ Fun fact : **It's not over , until its completely over 😄**
